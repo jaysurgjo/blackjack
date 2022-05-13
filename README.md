@@ -3,6 +3,6 @@ Practice project based on blackjack
 
 Project Team 
 * Owen (owner) 
-* Alice (collaborator) * 
+* Alice (collaborator)
 * Bob (collaborator) 
 
